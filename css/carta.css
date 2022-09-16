@@ -1,0 +1,9 @@
+.container-fluid{
+    margin: 0em;
+    padding: 0em;
+}
+
+.colorfila1{
+    background-color: rgb(33,37,41);
+    height: 5em;
+}

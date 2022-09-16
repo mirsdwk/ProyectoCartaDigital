@@ -8,6 +8,19 @@
     height: 5em;
 }
 
+.navbar-brand{
+    margin: .5em;
+}
+.cupcake{
+    width: 2em;
+    height: 2em;
+    background-color: whitesmoke;
+    border-radius: .4em;
+    padding: .2em;
+ 
+}
+
+
 .colorfila2{
     background-color: rgb(255, 248, 248);
     height: 35em;
