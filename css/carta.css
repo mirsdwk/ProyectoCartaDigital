@@ -22,11 +22,16 @@
 
 .colorfila3{
     background-color: ;
-    height: 15em;
+    height: 40em;
     
 }
 
-.background-carta{
-    margin: 0em;
+.card-title-carta{
+   
+   
 
+   font-size: 4em 1vw;
 }
+ .card-body{
+    height: ;
+ }
