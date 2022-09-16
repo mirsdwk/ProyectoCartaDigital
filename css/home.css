@@ -1,0 +1,31 @@
+.colorfila1{
+    background-color: rgb(33,37,41);
+    height: 5em;
+}
+
+.container-fluid{
+    margin: 0em;
+    padding: 0em;
+}
+.colorfila2{
+    background-color:#d5c896;
+    height: 35em;
+    
+   
+}
+.carousel{
+    width: 50em;
+   
+}
+
+.box{
+    height: 35em;
+    width: 20em;
+    background-image: cover;
+}
+.colorfila3{
+    background-color:rgb(33,37,41);
+    height: 40em;
+}
+
+
