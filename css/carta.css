@@ -36,6 +36,22 @@
 
 .card-title-carta{
    font-size: 4em 1vw;
+   padding: 2em;
+}
+@media (max-width:1000px){
+    .card-title-carta{
+        padding:1em;
+    }
 }
 
 
+.card-img-top{
+    transition: all 1s ease;
+}
+
+.card-img-top:hover{
+    transform: scale(.9);
+ 
+    border-radius: 5em;
+
+}
