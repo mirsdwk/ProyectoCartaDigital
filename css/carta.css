@@ -5,11 +5,25 @@
 
 .navbar-brand{
     margin: .5em;
+ 
 }
 
 .colorfila1{
     background-color: rgb(33,37,41);
-    height: 5em;
+    height: 6em;
+}
+
+@media (max-width:1000px){
+    .container-fluid-nav {  
+        height: 10em;
+    }
+
+  }
+
+  @media (max-width:500px){
+    .container-fluid-nav {
+        justify-content: center;
+    }
 }
 .cupcake{
     width: 2em;
@@ -20,17 +34,8 @@
  
 }
 
-.colorfila3{
-
-    height: 40em;
-    
-}
-
 .card-title-carta{
-   
-   
-
    font-size: 4em 1vw;
 }
- 
- 
+
+
