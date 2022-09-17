@@ -1,0 +1,105 @@
+.container-fluid{
+    margin: 0em;
+    padding: 0em;
+}
+
+.colorfila1{
+    background-color: rgb(33,37,41);
+    height: 5em;
+}
+@media (max-width:1000px){
+    .container-fluid-nav {  
+        height: 10em;
+    }
+
+  }
+
+  @media (max-width:500px){
+    .container-fluid-nav {
+        justify-content: center;
+    }
+}
+.navbar-brand{
+    margin: .5em;
+}
+.cupcake{
+    width: 2em;
+    height: 2em;
+    background-color: whitesmoke;
+    border-radius: .4em;
+    padding: .2em;
+ 
+}
+
+
+.colorfila2{
+    background-color: rgb(255, 248, 248);
+    height: 35em;
+}
+
+.carousel{
+    width: 50em;
+}
+
+.box{
+    height: 35em;
+    width: 20em;
+    background-image: cover;
+    transition: 2s ease;
+}
+
+.box:hover{
+    transform: scale(.7);
+    transition: 1s ease;
+}
+
+.lh-2{
+    color:whitesmoke
+}
+
+.colorfila3{
+    background-color:rgb(33,37,41);
+    height: 15em;
+}
+
+.colorfila4{
+    background-color: rgb(33,37,41);
+    height: 7em;
+}
+
+.colorfila5{
+background-color: rgb(33,37,41);
+height: 15em;
+}
+
+.carta-abajo{
+    text-decoration: none;
+    color: whitesmoke;
+
+    background: linear-gradient(90deg, transparent, gray, transparent);
+}
+
+.h2{
+    color: white;
+}
+    
+.texto-fondo{
+    
+    background: linear-gradient(80deg, transparent , whitesmoke, transparent);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.colorfila6{
+    background-color:rgb(33,37,41);
+    height: 20em;
+}
+.text-capitalize{
+    color: whitesmoke;
+    margin: 5em;
+}
+
+.mapa{
+    width: 30em;
+    height: 10em;
+}
+
